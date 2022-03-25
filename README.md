@@ -1,1 +1,1 @@
-# PraatAnalazer
+# PraatAnalyzer
